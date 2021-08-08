@@ -2,7 +2,7 @@
 This is a program that can simulate all of the possible rules of 2 neighbour 1 dimensional cellular automata
 
 <h4>Installation:</h4>
-run make to compile
+run make to compile<br>
 ./rule110 <width> to run<br>
 you can also specify a rule<br>
 ./rule110 <width> <rulenumber><br>
