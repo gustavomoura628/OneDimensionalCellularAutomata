@@ -13,3 +13,6 @@ space to pause (you need to hold it)
 enter to change to a random rule
 k to randomize current rule
 l to set only the rightmost cell to black
+
+Dependencies:
+sdl
