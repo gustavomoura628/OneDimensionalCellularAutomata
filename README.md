@@ -3,9 +3,9 @@ This is a program that can simulate all of the possible rules of 2 neighbour 1 d
 
 <h4>Installation:</h4>
 run make to compile<br>
-./rule110 <width> to run<br>
+./rule110 \<width\> to run<br>
 you can also specify a rule<br>
-./rule110 <width> <rulenumber><br>
+./rule110 \<width\> \<rulenumber\><br>
 rules range from 0 to 255
 
 <h4>Controls:</h4>
