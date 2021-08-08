@@ -12,8 +12,8 @@ rules range from 0 to 255
 <h4>Controls:</h4>
 space to pause (you need to hold it)</br>
 enter to change to a random rule<br>
-k to randomize current rule<br>
-l to set only the rightmost cell to black
+K to randomize current rule<br>
+L to set only the rightmost cell to black
 
 <h4>Dependencies:</h4>
 sdl
