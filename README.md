@@ -16,5 +16,8 @@ l to set only the rightmost cell to black
 
 <h4>Dependencies:</h4>
 sdl
+<br>
+<br>
+<br>
 
 ![text](screenshot110.png)
